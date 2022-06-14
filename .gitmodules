@@ -1,0 +1,3 @@
+[submodule "aggregation-for-caesar"]
+	path = aggregation-for-caesar
+	url = https://github.com/zooniverse/aggregation-for-caesar

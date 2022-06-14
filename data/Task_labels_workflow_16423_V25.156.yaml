@@ -1,0 +1,34 @@
+T1.answers.0.label: 'Yes'
+T1.answers.1.label: 'No'
+T1.answers.2.label: I'm not sure
+T1.question: "Racial covenants can sometimes be found in a **numbered list**, but\
+    \ that will not always be the case.  Note that there will be documents that *do\
+    \ not* contain racial covenants, so please read through the entire document. \
+    \ \n\n- If you find one, please answer **YES**. You will be then asked to transcribe\
+    \ the exact text of the covenant. \n- If you do not find one, please answer **NO**.\
+    \ You will then be presented with another deed to review. \n\n### Can you find\
+    \ a racial covenant in this deed?\n*Be sure to check every page of the document.*"
+T2.instruction: "Please transcribe the sentence containing the racial restriction\
+    \ by writing it into the box.  If there is more than one sentence, please write\
+    \ all the text that you believe is the racial covenant.\n\nIf you click the info\
+    \ (i) button, you can see our automated transcription of the deed. You might choose\
+    \ to copy this text and edit it.\n\nClick \u201CNeed Some Help with This Task?\u201D\
+    \ below to learn what to do if the text is unclear.\n\n### What is the text of\
+    \ the racial covenant?"
+T3.answers.0.label: 'Yes'
+T3.answers.1.label: 'No'
+T3.question: "A deed may also have an additional restriction which declares that the\
+    \ racial covenant shall run/is running with the land. This means that the racial\
+    \ restriction remains a permanent one,  unless the new owners take additional\
+    \ legal action. \n\nIf this deed has a clause in it that claims the covenant shall\
+    \ run with/is running with the land, please indicate that by answering YES or\
+    \ NO. \n\nClick \u201CNeed Some Help With This Task?\u201D below for an example.\
+    \ \n\n### Does this deed have a racial covenant with text related to runs with/is\
+    \ running with the land?\""
+T4.instruction: "#### Thank you for your classification! \n\nIf you would like to\
+    \ enter a comment about this particular deed, please do so in the window below.\
+    \ If not, please click **Done** to submit your classification. \n\nYou will see\
+    \ a record of your entries to review. Just click **Next** to start another classification\
+    \ task. \n\nYou may review documents for as long as you wish. You may stop reviewing\
+    \ at any time, and come back to transcribe again. \n\n**Enter your comment in\
+    \ the box below:**"

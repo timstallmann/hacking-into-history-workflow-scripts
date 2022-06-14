@@ -1,0 +1,9 @@
+extractor_config:
+    question_extractor:
+    -   task: T1
+    -   task: T3
+    text_extractor:
+    -   task: T2
+    -   task: T4
+workflow_id: 16423
+workflow_version: '25.156'
